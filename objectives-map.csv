@@ -1,0 +1,32 @@
+sy0_701_objective,sy0_701_title,sy0_801_objective,sy0_801_title,flag,one_to_one
+1.1,Compare and contrast various types of security controls,1.1,Explain security concepts and controls,MERGED,false
+1.2,Summarize fundamental security concepts,1.1,Explain security concepts and controls,MERGED,false
+1.3,Explain the importance of change management processes,1.2,"Given a scenario, demonstrate the impact of change management processes on security",REWORK,true
+1.4,Explain the importance of using appropriate cryptographic solutions,1.3,Explain the importance of using appropriate cryptographic solutions,RENUM,true
+,,2.1,Explain characteristics of threats and vulnerabilities,NEW,false
+2.1,Compare and contrast common threat actors and motivations,2.2,Describe common threat actors and motivations,REWORK,true
+2.2,Explain common threat vectors and attack surfaces,2.3,Describe threat vectors and sources,SPLIT,false
+2.2,Explain common threat vectors and attack surfaces,2.4,Explain types of vulnerabilities and attack surfaces,SPLIT,false
+2.3,Explain various types of vulnerabilities,2.4,Explain types of vulnerabilities and attack surfaces,REWORK,true
+2.4,"Given a scenario, analyze indicators of malicious activity",2.5,"Given a scenario, analyze indicators of malicious activity",REWORK,true
+2.5,Explain the purpose of mitigation techniques used to secure the enterprise,4.1,"Given a scenario, apply mitigating controls, techniques, and solutions to secure the environment",MERGED,false
+,,2.6,Summarize threats and vulnerabilities associated with artificial intelligence (AI) usage,NEW,false
+3.1,Compare and contrast security implications of different architecture models,3.1,Compare and contrast security implications of different architecture models,REWORK,true
+3.2,"Given a scenario, apply security principles to secure enterprise infrastructure",3.2,"Given a scenario, manage the security architecture to best protect the infrastructure",REWORK,true
+3.3,Compare and contrast concepts and strategies to protect data,3.3,Summarize concepts and strategies used to protect data,REWORK,true
+3.4,Explain the importance of resilience and recovery in security architecture,3.4,Explain the importance of resilience and recovery in security architecture,REWORK,true
+4.1,"Given a scenario, apply common security techniques to computing resources",4.1,"Given a scenario, apply mitigating controls, techniques, and solutions to secure the environment",MERGED,false
+4.2,"Explain the security implications of proper hardware, software, and data asset management",4.2,"Explain the security implications of proper hardware, software, and data asset management",SAME,true
+4.3,Explain various activities associated with vulnerability management,4.3,"Given a scenario, perform tasks associated with vulnerability management",REWORK,true
+4.4,Explain security alerting and monitoring concepts and tools,4.4,Explain security alerting and monitoring concepts and tools,REWORK,true
+4.5,"Given a scenario, modify enterprise capabilities to enhance security",4.1,"Given a scenario, apply mitigating controls, techniques, and solutions to secure the environment",MERGED,false
+4.6,"Given a scenario, implement and maintain identity and access management",4.5,"Given a scenario, apply concepts related to identity and access management",REWORK,true
+4.7,Explain the importance of automation and orchestration related to secure operations,4.6,"Given a scenario, apply automation and orchestration solutions to secure operations",REWORK,true
+4.8,Explain appropriate incident response activities,4.7,Summarize concepts associated with incident response activities,REWORK,true
+4.9,"Given a scenario, use data sources to support an investigation",4.8,"Given a scenario, use data, artifacts and sources to support a security investigation",REWORK,true
+5.1,Summarize elements of effective security governance,5.1,"Explain the importance of governance, risk, and compliance artifacts",REWORK,true
+5.2,Explain elements of the risk management process,5.2,Explain the impact of risk management processes on the security of the organization,REWORK,true
+5.3,Explain the processes associated with third-party risk assessment and management,5.3,Explain the assessment and management processes associated with third-party risk,REWORK,true
+5.4,Summarize elements of effective security compliance,5.4,Summarize elements of effective security compliance,REWORK,true
+5.5,Explain types and purposes of audits and assessments,5.5,Explain concepts associated with audit and assessment activities,REWORK,true
+5.6,"Given a scenario, implement security awareness practices",5.6,"Given a scenario, apply security awareness concepts to improve organizational security",REWORK,true
