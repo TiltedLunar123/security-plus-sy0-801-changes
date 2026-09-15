@@ -48,8 +48,8 @@ No exam questions, no braindumps, no copies of CompTIA's objectives. This is ana
 | 1.0 General Security Concepts | 12% | **16%** | +4 |
 | 2.0 Threats, Vulnerabilities, and ~~Mitigations~~ → **Attacks** | 22% | **24%** | +2 |
 | 3.0 Security Architecture | 18% | **19%** | +1 |
-| 4.0 Security Operations | 28% | **27%** | −1 |
-| 5.0 Security Program Management and Oversight | 20% | **14%** | **−6** |
+| 4.0 Security Operations | 28% | **27%** | -1 |
+| 5.0 Security Program Management and Oversight | 20% | **14%** | **-6** |
 
 Domain 2 is renamed. "Mitigations" comes out of the title because the mitigation objective itself was moved into Domain 4.
 

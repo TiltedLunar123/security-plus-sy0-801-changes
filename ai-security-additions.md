@@ -71,10 +71,10 @@ An AI system executing code, either as a designed feature or because an attacker
 
 The automation and orchestration objective was reworded to "**Given a scenario**, apply automation and orchestration solutions," so it is now scenario-based, and it gained an AI block:
 
-- **Agentic** — AI systems that take actions rather than just producing text. Note that this is where the security concern from 2.6 and the capability in 4.6 meet: the more agency, the more the session hijacking and code execution risks matter.
-- **Chatbot** — conversational interfaces, including for tier-one support and internal help desks.
-- **Predictive analysis** — forecasting from historical security data.
-- **AI-augmented baselines** — using models to establish what normal looks like, so anomaly detection is not hand-tuned.
+- **Agentic.** AI systems that take actions rather than just producing text. Note that this is where the security concern from 2.6 and the capability in 4.6 meet: the more agency, the more the session hijacking and code execution risks matter.
+- **Chatbot.** Conversational interfaces, including for tier-one support and internal help desks.
+- **Predictive analysis.** Forecasting from historical security data.
+- **AI-augmented baselines.** Using models to establish what normal looks like, so anomaly detection is not hand-tuned.
 
 The same objective also gained SecOps and CI/CD content, plus workflow automation and integrations.
 

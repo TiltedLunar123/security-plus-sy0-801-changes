@@ -34,13 +34,13 @@ Renamed from "Threats, Vulnerabilities, and **Mitigations**." Every objective re
 
 | SY0-701 | SY0-801 | Flag | Notes |
 |---|---|---|---|
-| — | **2.1** Characteristics of threats and vulnerabilities | `NEW` | New objective, but content is relocated from 701 4.3: threat feeds, intelligence sources, threat life cycle, CVSS, CVE, vulnerability scoring and prioritization. |
+| (none) | **2.1** Characteristics of threats and vulnerabilities | `NEW` | New objective, but content is relocated from 701 4.3: threat feeds, intelligence sources, threat life cycle, CVSS, CVE, vulnerability scoring and prioritization. |
 | 2.1 Threat actors and motivations | **2.2** | `REWORK` | Adds terrorist, competitor, accidental/unintentional actors. Adds notoriety, extortion, influence, general curiosity motivations. Shadow IT leaves for 2.4. |
 | 2.2 Threat vectors and attack surfaces | **2.3** Threat vectors and sources | `SPLIT` | Vector content to 2.3, attack surface content to 2.4. 2.3 expands with RCS, CAPTCHA, browser session tokens, living-off-the-land, OT, IoT, signal-based, physical. |
 | 2.3 Types of vulnerabilities | **2.4** Vulnerabilities and attack surfaces | `REWORK` | Adds LLMs, identity providers, rogue devices, shadow IT, stale credentials, public repositories and object storage. Web-based SQLi/XSS naming moves to 2.5 application attacks. |
 | 2.4 Indicators of malicious activity | **2.5** | `REWORK` | Adds formal indicators-of-compromise grouping and a credential attacks grouping. Adds deepfake, quishing, fileless malware, MFA bypass, user enumeration. |
 | 2.5 Mitigation techniques | **4.1** | `MERGED` | Leaves the domain entirely. This is why the domain title changed. |
-| — | **2.6** AI threats and vulnerabilities | `NEW` | No SY0-701 ancestor of any kind. See [ai-security-additions.md](ai-security-additions.md). |
+| (none) | **2.6** AI threats and vulnerabilities | `NEW` | No SY0-701 ancestor of any kind. See [ai-security-additions.md](ai-security-additions.md). |
 
 Domain weight 22% to 24%. Five objectives to six.
 
@@ -97,11 +97,11 @@ Domain weight 20% to 14%. Six objectives to six.
 | | SY0-701 | SY0-801 |
 |---|---|---|
 | Objectives | 28 | 27 |
-| `NEW` objectives | — | 2 |
-| Objectives removed | 2 | — |
-| Objectives renumbered | — | 11 |
-| Objectives materially reworked | — | 20 |
-| Objectives essentially unchanged | — | 1 |
+| `NEW` objectives | (none) | 2 |
+| Objectives removed | 2 | (none) |
+| Objectives renumbered | (none) | 11 |
+| Objectives materially reworked | (none) | 20 |
+| Objectives essentially unchanged | (none) | 1 |
 
 Only one objective out of 27 carries over without material change. Treating this as "a light refresh because the domain count is the same" is the mistake to avoid.
 
